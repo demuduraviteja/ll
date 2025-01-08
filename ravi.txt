@@ -3,4 +3,7 @@ this is ravi
 this is priya
 this is lavanya
 my company is wipro
+<<<<<<< HEAD
 my road no is 2
+=======
+>>>>>>> 37a00b5 (modified)
